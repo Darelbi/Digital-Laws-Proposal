@@ -1,7 +1,10 @@
 # Digital Laws Proposals
 
+__________
 
-## Artificial Intelligence Regulation Act
+# 1. Artificial Intelligence Regulation Act
+
+__________
 
 ### Current Proposal
 
@@ -21,3 +24,5 @@ is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=c
 **Please ask explicitly if you want to be listed here after making a contribution (even a donation on Change.org)**
 
 - Dario Oliveri
+
+__________ 
