@@ -110,8 +110,12 @@ artists to make content for AIs, and the artists can reject.
 
 1. The law was designed to be technically precise and feasible.
 2. The law was designed to not have loopholes (like the GDPR).
-3. Yeah I used AI to correct the law.
-4. Yeah I made a AI to, I know my topic. 
+3. Yeah I used a AI to correct the law.
+4. Yeah I made a AI too myself, I know my topic. 
+5. I understand that politicians have different areas of expertise and therefore
+cannot also be technically prepared to technological loopholes.
+6. I also understand that companies have no interest in letting the politicians
+become aware of technological loopholes.
 
 **A simple technical overview**
 
