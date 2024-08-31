@@ -85,7 +85,7 @@ in unethical ways:
 “OK button” like with cookies).
 - Any data entering AI systems can stay there for a maximum of 6 months.
 - Every 6 months, AI systems must restart from zero (So data that changed the 
-permission and removed the permission for AI usage gets deleted within 6 months
+permission and removed the permission for AI usage gets deleted within 6 months)
 - You should be informed by all AI services that are using your data and how 
 they are using it.
 
