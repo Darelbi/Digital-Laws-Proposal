@@ -27,8 +27,9 @@ this document, any reference to "AI Choice" also includes "Digital AI Choice"
 without limiting the scope to digital platforms alone.
 5. **Choice Context**: The framework within which an individual can express their
 preferences regarding the usage of their data by AI systems.
-6. **Timestamp**: Refers to the time (UTC, precise down to 1 second) some data
-enters AI system. Any data derived from that has that timestamp.
+6. **Timestamp**: Refers to the time (real UTC time, precise down to 1 second)
+measured when data starts entering AI systems. Any data derived from that must
+have that same exact timestamp.
 7. **AI Act**: short version for Artificial Intelligence Regulation Act, if
 mentioned in this document, it is referring to this document and not to other
 similiar documents other people may come up with.
