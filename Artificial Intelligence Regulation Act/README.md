@@ -108,14 +108,16 @@ artists to make content for AIs, and the artists can reject.
 
 **My committment**:
 
-1. The law was designed to be technically precise and feasible
-2. The law was designed to not have loopholes (like the GDPR)
-3. Yeah I used AI to correct the law. 
+1. The law was designed to be technically precise and feasible.
+2. The law was designed to not have loopholes (like the GDPR).
+3. Yeah I used AI to correct the law.
+4. Yeah I made a AI to, I know my topic. 
 
-** A simple technical overview**
+**A simple technical overview**
 
 Anything that enters the AI should be time marked.
 Once data is time marked it has 6 months before being deleted.
+
 <img src="https://raw.githubusercontent.com/Darelbi/Digital-Laws-Proposal/main/Artificial%20Intelligence%20Regulation%20Act/OriginOfDerivedData.png" alt="Creative Commons">
 
 Having instant deletion would be ideal, but it's not technically feasible.
