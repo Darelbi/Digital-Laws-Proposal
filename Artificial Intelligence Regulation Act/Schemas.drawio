@@ -1,0 +1,151 @@
+<mxfile host="Electron" modified="2024-08-31T00:30:16.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.11 Chrome/114.0.5735.289 Electron/25.9.8 Safari/537.36" etag="ktztu2AwFrCZv48Qq-_T" version="22.1.11" type="device">
+  <diagram name="Pagina-1" id="8_Met2v6mDIiuGP8wxca">
+    <mxGraphModel dx="1036" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="06V93uaTYKMUakalcXeL-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-1" value="Data explicitly provided for AI usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-3" value="Any data processing system that can be considered AI or machine learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-4" value="&lt;b&gt;In example:&lt;/b&gt;&lt;br&gt;An Artificial Neural Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-1" target="06V93uaTYKMUakalcXeL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-6" value="Generated output" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-4" target="06V93uaTYKMUakalcXeL-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-8" value="&lt;b&gt;Model meta-data: &lt;/b&gt;any info on the model (including neural networks weights) excluding configuration parameters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=sharp;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-4" target="06V93uaTYKMUakalcXeL-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-11" value="Artificial Intelligence or &lt;br style=&quot;font-size: 14px;&quot;&gt;Machine Learning Methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-13" value="Anything exiting AI considered as AI GENERATED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-14" value="AI DERIVED DATA (usable for 6 months)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-15" value="&lt;b&gt;A-Priori choosen&lt;/b&gt; parameters ( in example: number of neural layers)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-15" target="06V93uaTYKMUakalcXeL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="370" as="sourcePoint" />
+            <mxPoint x="300" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="320" />
+              <mxPoint x="230" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-33" value="Other AI DERIVED DATA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-33" target="06V93uaTYKMUakalcXeL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="80" />
+              <mxPoint x="240" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-36" value="Any data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-38" value="Once a data processing system receives data derived from AI, it is considered generating AI derived data anyway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-39" value="&lt;b&gt;In example:&lt;/b&gt;&lt;br&gt;Archiving, encoding, statistical analysis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-36" target="06V93uaTYKMUakalcXeL-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="780" as="sourcePoint" />
+            <mxPoint x="190" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-41" value="AI DERIVED DATA (usable for only 3 months)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-39" target="06V93uaTYKMUakalcXeL-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="780" as="sourcePoint" />
+            <mxPoint x="550" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-45" value="Any data processing system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-50" value="Other AI DERIVED DATA&lt;br&gt;(in example 3 months old)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-50" target="06V93uaTYKMUakalcXeL-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="720" as="sourcePoint" />
+            <mxPoint x="300" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="470" />
+              <mxPoint x="240" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-53" value="ANYTHING AI DERIVED" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-54" value="6 months" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-53" target="06V93uaTYKMUakalcXeL-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="690" as="sourcePoint" />
+            <mxPoint x="550" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="06V93uaTYKMUakalcXeL-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="690" as="sourcePoint" />
+            <mxPoint x="550" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="06V93uaTYKMUakalcXeL-57" value="NO LONGER USABLE FOR AI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="775" width="210" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

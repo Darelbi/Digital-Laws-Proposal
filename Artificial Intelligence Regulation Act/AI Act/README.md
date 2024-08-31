@@ -1,2 +1,199 @@
 # AI Act (actual law proposal)
-If I come up with interesting laws or ideas, I will put these here
+
+______
+
+### Definitions
+1. **Entity**: A person, organization, or business that possesses separate and 
+distinct legal rights and responsibilities. This includes the ability to own 
+property, enter into contracts, sue and be sued, and fulfill legal obligations.
+For the purposes of this document, an entity also includes any individual or 
+organization that owns an AI system.
+2. **Artificial Intelligence(AI)**: AI or AI system, refers to any system that
+utilizes artificial intelligence or machine learning methods, including but 
+not limited to artificial neural networks. These systems are capable of 
+performing tasks that typically require human intelligence, such as recognizing
+patterns, making decisions, and learning from data.
+3. **AI-Based Service**: Any service that relies on artificial intelligence or 
+machine learning methods (AI) to be delivered. This includes services that utilize 
+AI systems for tasks such as data analysis, decision-making, predictions, 
+recommendations, or any other function that typically requires human intelligence.
+4. **Digital AI Choice**: The mechanism by which an individual expresses their
+preference regarding the usage of their data by AI systems on digital platforms,
+including websites and any digital service (such as, but not limited to, 
+desktop applications). 
+4. **AI Choice**: The mechanism by which an individual expresses their
+preference regarding the usage of their data by AI systems. For the purposes of
+this document, any reference to "AI Choice" also includes "Digital AI Choice" 
+without limiting the scope to digital platforms alone.
+5. **Choice Context**: The framework within which an individual can express their
+preferences regarding the usage of their data by AI systems.
+
+
+# Rights section
+
+______
+
+### Explicit permission
+
+1. An AI system shall not utilize any data or media unless explicit permission
+has been granted by the original author or rights holder. This includes, but 
+is not limited to, text, images, audio, video, recordings from security cameras,
+personal data (including personal appearance and voice) obtained through digital
+and non-digital means, and any other form of digital or non-digital content. 
+The explicit permission must be documented and verifiable to ensure compliance 
+with this regulation.
+
+
+### Non-Discrimination Based on AI Choice: 
+
+2. Any AI Choice option shall not prevent access to any benefits, nor shall it
+grant exclusive benefits. This includes, but is not limited to, access to 
+premium content on websites or eligibility for casting in movies. Individuals
+must not be denied access to services or opportunities based on their 
+AI Choice. The AI Choice must not be used as leverage to coerce individuals 
+into agreeing to AI usage. All contracts must remain valid and enforceable 
+regardless of the individual’s decision to prohibit AI usage.
+
+However, contracts specifically regarding the use of an individual’s appearance,
+voice, or personality in AI systems are permissible, provided that neither the
+existence nor the absence of such contracts restricts access to other 
+opportunities or benefits beyond the agreed payment for the particular contract.
+
+
+### Visibility of AI Choice: 
+
+3. Whenever an AI choice is requested from an individual, the page/window 
+(if it is a digital platform) or the contract section (if it is a written
+contract) must prominently display a clearly visible 
+"Artificial Intelligence Choice" label.
+
+### Prohibition on Oral Contracts for AI Usage: 
+
+4. Oral contracts cannot grant any AI usage rights on any data, content, 
+or personal information. All permissions for AI usage must be documented 
+in written form and comply with the modes established in this law.
+
+### Format of Digital AI Choice:
+
+5. Each time a Digital AI Choice is required for a particular Choice Context,
+this choice must be presented through at least three options, which have to be well
+and equally visible. These options must always be the first three options shown
+and must remain prominently visible. The first option among these three must 
+be default-selected. The options must be mutually exclusive and are defined as
+follows:
+
+   - No AI usage.
+   - AI usage allowed by the website owner.
+   - AI usage allowed by anyone.
+   
+###  Global Digital AI Choice Requirement
+
+6. A website that intends to use AI on users’ data or content must provide
+at least one global Choice Context for the Digital AI Choice. This global 
+Choice Context will apply to all the user’s data unless the user specifies
+otherwise in other Choice Contexts. Any other permission granted not explicitly
+through the modes established in this law shall be considered revoked and 
+defaulted to "No AI usage." This includes, but is not limited to, websites that
+have silently added an "AI option" and enabled it by default.
+
+### Explicit Digital AI Choice Requirement: 
+
+7. Digital AI Choice can only be provided through an explicit option as 
+described in the Format of Digital AI Choice. This provision is to prevent 
+other open licenses from being creatively interpreted as explicit permission
+for AI usage. For example, this law does not allow MIT-licensed software or 
+source code, or Creative Commons-licensed artworks to be processed by any 
+AI system unless explicit permission is granted through the established modes.
+
+### Industry Consensus for AI Usage Standards: 
+
+8. Industries are free to reach a consensus on a standard that clearly
+indicates when publicly available content can be used for AI purposes. 
+Until such a standard is established, no assumptions can be made regarding
+whether explicit permission has been granted for AI usage. Explicit 
+permission must be documented and verifiable as per the modes established 
+in this law.
+
+### Prohibition on Third-Party AI Data Sharing:
+
+9. Data that cannot be used on an individual’s or entity’s own AI system,
+due to lack of explicit permission, shall not be shared, transferred, 
+or fed to third-party AI systems. This ensures that data usage 
+restrictions are upheld consistently across all AI systems and platforms.
+
+### Data Transfer and Usage for AI Purposes
+
+10. **Prohibition of Unauthorized Data Transfer**: No entity shall transfer data to
+another entity for the purpose of AI usage unless the following conditions are
+    - **Internal Standard Compliance**: Both entities must adhere to an internal standard
+	that ensures the explicit consent of the data owner has been obtained. 
+	It must include:
+	  10.1. Clear and comprehensible information on permissions given by user. 
+	  10.2. Record-keeping procedures to document the consent obtained. 
+	  10.3. Legal Compliance: The data transfer and subsequent usage must comply with all 
+	  existing laws and regulations, including but not limited to data protection, 
+	  privacy, and consumer rights laws.
+	  
+	- **Explicit Consent Requirement**: The explicit consent of the data owner 
+	must be: 
+	  10.4. Informed: The data owner must be fully informed about the nature, 
+	  purpose, and scope of the AI usage of their data. 
+	  10.5. Voluntary: The consent must be given freely without any form of 
+	  coercion or undue influence.
+	  10.6. Documented: The consent must be documented in a manner that is 
+	  verifiable and auditable.
+	  10.7. Explicit: The consent must be given explicitly through the Digital AI
+	  Choice format. It cannot be given through an easily dismissible mean, 
+	  in implicit ways: including but not limited to "Pop ups with just a OK 
+	  button".
+	  
+11. **Restrictions on Data Usage**: Any data transferred for AI purposes shall
+	remain subject to all existing legal restrictions and protections. This 
+	includes, but is not limited to: 
+	-Data Minimization: Only the minimum amount of data necessary for the 
+	specified AI purpose shall be transferred and used. 
+	-Purpose Limitation: The data shall only be used for the specific AI 
+	purpose for which consent was obtained. 
+	-Security Measures: Appropriate technical and organizational measures must
+	be in place to protect the data from unauthorized access, disclosure, 
+	alteration, or destruction.
+
+### Mandatory AI Disclosure: 
+
+12. All entities must identify if any service they offer or use internally 
+involves AI systems. Clearly disclose this information to all users. The 
+disclosure must be Clear and Accessible: Easily understandable and readily
+available to users. The disclosure must be publicly available, and any change
+to it (including the first disclosure made to obey this law) must always be
+notified to all users. It must be publicly available on a dedicated page 
+clearly labeled and entitled "Artificial Intelligence Services Information"
+which must be easily accessible and always available.
+
+13. Any content or data, produced or delivered by AI systems must be clearly
+identified as AI-derived. If later discovered to be AI-derived, it must be 
+either deleted or marked as AI-generated. This includes content with minimal
+AI involvement (e.g., text correction, AI-guided color correction).
+
+14. If AI is involved in delivery of a product, content, data or service it 
+must be explained in detail which AI system or service was used, which data
+was provided to it and how that data was used. In example, but not limited
+to, it must be clearly stated if your religion or political opinion is being
+used to limit visibility of your content by some algorithm that use AI
+or some algorithm that makes decisions on data that is AI-derived.
+
+# Data handling section
+
+______
+
+
+### AI-Derived Data
+
+
+______
+
+### Definitions
+
+- If an AI system, owned by the entity, does not process any data requiring
+explicit permission, nor any data derived from such data, the owner may update
+the timestamp of any AI-derived data generated by that system to the current 
+UTC time at any moment
