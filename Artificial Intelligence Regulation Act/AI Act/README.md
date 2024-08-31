@@ -29,6 +29,9 @@ without limiting the scope to digital platforms alone.
 preferences regarding the usage of their data by AI systems.
 6. **Timestamp**: Refers to the time (UTC, precise down to 1 second) some data
 enters AI system. Any data derived from that has that timestamp.
+7. **AI Act**: short version for Artificial Intelligence Regulation Act, if
+mentioned in this document, it is referring to this document and not to other
+similiar documents other people may come up with.
 
 
 # Rights section
@@ -43,7 +46,7 @@ is not limited to, text, images, audio, video, recordings from security cameras,
 personal data (including personal appearance and voice) obtained through digital
 and non-digital means, and any other form of digital or non-digital content. 
 The explicit permission must be documented and verifiable to ensure compliance 
-with this regulation. Explicit permission must be granted with the format of a
+with this regulation. Explicit permission must be granted in the format of a 
 Digital AI Choice, if this is not the case, it must be AI Choice performed by
 legally signing a written contract.
 
@@ -54,8 +57,8 @@ legally signing a written contract.
 grant exclusive benefits. This includes, but is not limited to, access to 
 premium content on websites or eligibility for casting in movies. Individuals
 must not be denied access to services or opportunities based on their 
-AI Choice. The AI Choice must not be used as leverage to coerce individuals 
-into agreeing to AI usage. All contracts must remain valid and enforceable 
+AI Choice. AI Choice must not be used as leverage to coerce individuals 
+into agreeing to AI usage.. All contracts must remain valid and enforceable 
 regardless of the individual’s decision to prohibit AI usage.
 
 However, contracts specifically regarding the use of an individual’s appearance,
@@ -173,7 +176,9 @@ another entity for the purpose of AI usage unless the following conditions are
 ### Mandatory AI Disclosure: 
 
 12. All entities must identify if any service they offer or use internally 
-involves AI systems. Clearly disclose this information to all users. The 
+involves AI systems. All entities must know which service they offer are 
+AI-based services, and the same for the services they consume.
+Entities should clearly disclose this information to all users. The 
 disclosure must be Clear and Accessible: Easily understandable and readily
 available to users. The disclosure must be publicly available, and any change
 to it (including the first disclosure made to obey this law) must always be
@@ -327,25 +332,27 @@ of their data by AI systems. This includes details on how their data is
 collected, processed, and used. This must include which AI-based services are
 actually employed.
 
-
 - **Right to Access**: Users can request access to their data that has been 
 processed by AI systems and which kind of data was it generated from it.
 Entities must provide this information in a clear and understandable format. 
 This include data that has been received by third parties, even in the case
 it was not memorized permanently before this law.
 
-
 - **Right to Rectification**: Users have the right to request corrections to 
 any inaccurate or incomplete data processed by AI systems. Especially if that
 data was used to infer political or religious orientation.
-
 
 - **Right to Erasure**: Users can request the deletion of their data from 
 AI systems if it is no longer necessary for the purposes for which it was 
 collected or if they withdraw their consent. Due to the nature of AI systems
 that put all collected data together in one complex and costly object from
 which the extraction of original data is not easily viable, deletion
-happens at most 6 months after the moment of the request.
+happens at most 6 months after the moment of the request (Already enforced
+by other points).
+
+- **Right to Notification**: Users have the right to be notified promptly 
+if their data is breached or misused. The same right apply if the the entity
+found it was not adhering to Artificial Intelligence Regulation Act.
 
 # User Recourse:
 ______
@@ -353,11 +360,9 @@ ______
 - **Filing Complaints**: Users can file complaints with a designated regulatory
 authority if they believe their rights have been violated under this law.
 
-
 - **Seeking Redress**: Users can seek redress through legal channels if their 
 data has been misused or if their rights have been infringed upon. This 
 includes the right to compensation for any damages suffered.
-
 
 - **Regulatory Authority**: A regulatory authority will be established to oversee
 compliance with this law. This authority will handle user complaints, conduct 
@@ -367,29 +372,27 @@ investigations, and enforce penalties for non-compliance.
 ______
 
 
-- **Regular Audits**: Entities must undergo regular audits to ensure compliance
-with this law. These audits will be conducted by independent third-party 
-auditors approved by the regulatory authority.
-
+- **Regular Audits**: Entities must undergo regular audits, at least annually, 
+to ensure compliance with this law.to ensure compliance with this law. 
+These audits will be conducted by independent third-party auditors approved
+by the regulatory authority.
 
 - **Audit Reports**: Entities must submit audit reports to the regulatory authority
 on a yearly basis. These reports should detail the entity’s compliance with 
 the law, including data handling practices, security measures, and user consent
 procedures.
 
-
 - **Compliance Officers**: Entities must appoint a compliance officer responsible 
 for overseeing adherence to this law. The compliance officer will act as a 
 point of contact for the regulatory authority and users.
-
 
 - **Record-Keeping**: Entities must maintain detailed records of all data 
 processing activities, including user consents, data transfers, and AI system 
 operations. These records must be made available to the regulatory authority 
 upon request.
 
-- **Transparency Reports**: Entities must publish transparency reports detailing
-their AI data processing activities, including the types of data processed, 
-the purposes of processing, and the measures taken to ensure compliance with 
-this law.
+- **Transparency Reports**: Entities must publish annual transparency reports 
+detailing their AI data processing activities, including the types of data 
+processed, the purposes of processing, and the measures taken to ensure 
+compliance with this law.
 
