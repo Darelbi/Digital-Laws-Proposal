@@ -27,6 +27,8 @@ this document, any reference to "AI Choice" also includes "Digital AI Choice"
 without limiting the scope to digital platforms alone.
 5. **Choice Context**: The framework within which an individual can express their
 preferences regarding the usage of their data by AI systems.
+6. **Timestamp**: Refers to the time (UTC, precise down to 1 second) some data
+enters AI system. Any data derived from that has that timestamp.
 
 
 # Rights section
@@ -128,21 +130,21 @@ another entity for the purpose of AI usage unless the following conditions are
     - **Internal Standard Compliance**: Both entities must adhere to an internal standard
 	that ensures the explicit consent of the data owner has been obtained. 
 	It must include:
-	  10.1. Clear and comprehensible information on permissions given by user. 
-	  10.2. Record-keeping procedures to document the consent obtained. 
-	  10.3. Legal Compliance: The data transfer and subsequent usage must comply with all 
+	  + Clear and comprehensible information on permissions given by user. 
+	  + Record-keeping procedures to document the consent obtained. 
+	  + Legal Compliance: The data transfer and subsequent usage must comply with all 
 	  existing laws and regulations, including but not limited to data protection, 
 	  privacy, and consumer rights laws.
 	  
 	- **Explicit Consent Requirement**: The explicit consent of the data owner 
 	must be: 
-	  10.4. Informed: The data owner must be fully informed about the nature, 
+	  + Informed: The data owner must be fully informed about the nature, 
 	  purpose, and scope of the AI usage of their data. 
-	  10.5. Voluntary: The consent must be given freely without any form of 
+	  + Voluntary: The consent must be given freely without any form of 
 	  coercion or undue influence.
-	  10.6. Documented: The consent must be documented in a manner that is 
+	  + Documented: The consent must be documented in a manner that is 
 	  verifiable and auditable.
-	  10.7. Explicit: The consent must be given explicitly through the Digital AI
+	  + Explicit: The consent must be given explicitly through the Digital AI
 	  Choice format. It cannot be given through an easily dismissible mean, 
 	  in implicit ways: including but not limited to "Pop ups with just a OK 
 	  button".
@@ -171,29 +173,79 @@ which must be easily accessible and always available.
 
 13. Any content or data, produced or delivered by AI systems must be clearly
 identified as AI-derived. If later discovered to be AI-derived, it must be 
-either deleted or marked as AI-generated. This includes content with minimal
+either deleted or marked as AI-derived. This includes content with minimal
 AI involvement (e.g., text correction, AI-guided color correction).
 
 14. If AI is involved in delivery of a product, content, data or service it 
 must be explained in detail which AI system or service was used, which data
 was provided to it and how that data was used. In example, but not limited
 to, it must be clearly stated if your religion or political opinion is being
-used to limit visibility of your content by some algorithm that use AI
-or some algorithm that makes decisions on data that is AI-derived.
+used to limit visibility of your content to other people, or if content 
+delivered to you is based on your religion or political opinion or if that
+content is based on AI-derived data.
 
 # Data handling section
 
 ______
 
-
 ### AI-Derived Data
 
+15. From the moment any form of data, including but not limited to text, 
+images, and videos, begins to enter an AI system, it shall be explicitly marked
+with a timestamp. This timestamp shall be generated with the current UTC time  
+with a precision of one second, starting from the entry of the first bit of
+information. Additionally, any output produced by the AI system, including its
+metadata (such as but not limited to neuron weights), shall be marked with the 
+same timestamp and identified as AI-derived. This ensures that even if the data
+takes several days or weeks to fully enter the system, the initial timestamp 
+accurately reflects the start of the data entry process.
+To clarify, if an AI model requires 30 days (2,592,000 seconds) for training,
+the timestamp of any output must reflect the start of the data entry process.
+This means the timestamp should be set to 2,592,000 seconds prior to the 
+completion of the training, ensuring it accurately represents the moment the
+first bit of data began entering the AI system.
 
-______
+16. The timestamp must be in "YYYY-MM-ddTHH:mm:ssZ" format.
 
-### Definitions
+17. AI-derived data shall not be used within an AI system if its timestamp is
+earlier than 180 days compared to the current UTC time (15,552,000 seconds) at
+any point during the processing. If the timestamp becomes older than 180 days
+even one second before the AI system completes the processing, all resulting 
+output must be discarded. This means that after you start training a model, you
+have roughly 6 months to use it. Since its neural weights (in the case of an 
+Artificial Neural Network) count as AI-derived data, after 6 months you can no 
+longer use that data in an AI system, and without neural weights, an Artificial 
+Neural Network is useless.
 
-- If an AI system, owned by the entity, does not process any data requiring
+18. AI-derived data that is generated from other AI-derived data must retain 
+the earliest timestamp among all data that entered the AI system. This 
+requirement ensures that training AI models is always conducted only with 
+explicitly permitted data. Additionally, any data for which permission is 
+retracted will be purged in automatic from current models within six months.
+
+19. The data must not be duplicated: If someone perform AI Choice, 
+there should not be any duplicate of that data marked with older choices.
+A choice performed by a user under a certain context should be applied
+globally and worldwide istantly.
+
+20. Any AI-derived data entering a data processing system, must retain the 
+timestamp because it makes the data processing system (even if it is not a AI
+system) to create at all effects AI-derived data.
+
+### Relaxation on Timestamp
+
+- If an AI system, owned by the entity, does not process any data that requires
 explicit permission, nor any data derived from such data, the owner may update
 the timestamp of any AI-derived data generated by that system to the current 
 UTC time at any moment
+
+### Relaxation on Explicit permission for research
+
+- If a research was published providing an OPENLY AVAILABLE dataset for 
+training AI models (like the MNIST dataset), if that data was collected with 
+explicit permission of all participants to the research, even if that permission
+is not in the format required by this law, then that data is allowed for use 
+in AI. In that case, the timestamp is relaxed and can be always be updated to 
+the current UTC time at any moment. 
+
+
