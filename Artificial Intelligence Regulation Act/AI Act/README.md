@@ -287,4 +287,109 @@ conscious to the fact they were contributing to AI models. So any contract
 signed should be clear about that. Digital "Terms of Service" are not
 considered valid since rarely someone read them carefully.
 
+# Fines and Penalties
+______
+
+- **Minor Violations**: Fines up to €10 million or 2% of the entity’s global annual
+turnover, whichever is higher.
+- **Major Violations**: Fines up to €20 million or 4% of the entity’s global annual
+turnover, whichever is higher.
+- **Non-Compliance with Explicit Permission Requirements**: Fines up to €15 million
+or 3% of the entity’s global annual turnover, whichever is higher.
+- **Failure to Disclose AI Usage**: Fines up to €5 million or 1% of the entity’s 
+global annual turnover, whichever is higher.
+
+Points that constitute major violations if not respected are:  
+2,5,6,7,8,9,10,11,12,13,15,17,18,19,20,21
+
+Apart Non-Compliance with Explicit Permission Requirements and Failure to 
+Disclose AI Usage, all other remaining points, if not respected constitutes 
+minor violations.
+
+Not respecting one point, given how all these points are focused on a narrow concept,
+almost certainly implies that more than one point is not respected. The penalties 
+sum up for every point that the Entity fails to adhere to.
+
+To the extent of this law, this law proposal can be considered AI-derived 
+because Copilot was used to check for errors and proper legal terms in a
+few points, some small points were suggested by the AI. The main
+idea and text is all human.
+
+The law is not Anti-AI. This law is for proper and ethical AI.
+
+
+
+# User Rights
+______
+
+- **Right to Information**: Users have the right to be informed about the use
+of their data by AI systems. This includes details on how their data is 
+collected, processed, and used. This must include which AI-based services are
+actually employed.
+
+
+- **Right to Access**: Users can request access to their data that has been 
+processed by AI systems and which kind of data was it generated from it.
+Entities must provide this information in a clear and understandable format. 
+This include data that has been received by third parties, even in the case
+it was not memorized permanently before this law.
+
+
+- **Right to Rectification**: Users have the right to request corrections to 
+any inaccurate or incomplete data processed by AI systems. Especially if that
+data was used to infer political or religious orientation.
+
+
+- **Right to Erasure**: Users can request the deletion of their data from 
+AI systems if it is no longer necessary for the purposes for which it was 
+collected or if they withdraw their consent. Due to the nature of AI systems
+that put all collected data together in one complex and costly object from
+which the extraction of original data is not easily viable, deletion
+happens at most 6 months after the moment of the request.
+
+# User Recourse:
+______
+
+- **Filing Complaints**: Users can file complaints with a designated regulatory
+authority if they believe their rights have been violated under this law.
+
+
+- **Seeking Redress**: Users can seek redress through legal channels if their 
+data has been misused or if their rights have been infringed upon. This 
+includes the right to compensation for any damages suffered.
+
+
+- **Regulatory Authority**: A regulatory authority will be established to oversee
+compliance with this law. This authority will handle user complaints, conduct 
+investigations, and enforce penalties for non-compliance.
+
+# Audit and Compliance:
+______
+
+
+- **Regular Audits**: Entities must undergo regular audits to ensure compliance
+with this law. These audits will be conducted by independent third-party 
+auditors approved by the regulatory authority.
+
+
+- **Audit Reports**: Entities must submit audit reports to the regulatory authority
+on a yearly basis. These reports should detail the entity’s compliance with 
+the law, including data handling practices, security measures, and user consent
+procedures.
+
+
+- **Compliance Officers**: Entities must appoint a compliance officer responsible 
+for overseeing adherence to this law. The compliance officer will act as a 
+point of contact for the regulatory authority and users.
+
+
+- **Record-Keeping**: Entities must maintain detailed records of all data 
+processing activities, including user consents, data transfers, and AI system 
+operations. These records must be made available to the regulatory authority 
+upon request.
+
+- **Transparency Reports**: Entities must publish transparency reports detailing
+their AI data processing activities, including the types of data processed, 
+the purposes of processing, and the measures taken to ensure compliance with 
+this law.
 
