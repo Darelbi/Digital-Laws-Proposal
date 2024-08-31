@@ -55,7 +55,7 @@ using the original style of the author without his consent..
 - **Publishers**: the amount of trash books is putting already some Publishers
 under pressure, also because the books are usually self-published (most times
 even without a ISBN code)
-- **Translators**: aActually, AI can translate very well. If you try to 
+- **Translators**: Actually, AI can translate very well. If you try to 
 translate a foreign song into your language, you might do better than AI in a 
 couple of points because AI still misses some details. It’s not perfect. But 
 almost no one needing a translation cares about such details anymore.
