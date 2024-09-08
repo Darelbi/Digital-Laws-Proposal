@@ -46,7 +46,7 @@ perpetuate biases, leading to unfair treatment in areas like hiring and lending.
 Conversely, proper regulation can ensure AI is used ethically, protecting jobs 
 and personal data, and fostering trust in AI technologies. This, of course, 
 includes things that are actually considered crimes (e.g., revenge porn deep 
-fakes).
+fakes). 
 
 Immediate action is crucial as AI technology rapidly evolves. Establishing 
 regulations now can prevent potential harms and ensure AI development aligns 
@@ -62,9 +62,9 @@ So, I need you to vote on this campaign for this law proposal:
 
 AI Act Proposal
 
-And help me spread the word among all the people. Because maybe your job
-cannot (yet) be replaced by AI, but one day it might be.
+**And help me spread the word among all the people**. Because maybe your job
+cannot (yet) be replaced by AI, but one day it might be. 
 
 This law should be the bare minimum to help fight the unethical use of AI. 
 Of course, it’s open to debate and improvements (you can subscribe to the 
-site and create “issues,” for example)
+site and create “issues,” for example). 
